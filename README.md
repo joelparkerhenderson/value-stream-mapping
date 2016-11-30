@@ -27,9 +27,9 @@ In order of importance.
 
 * Lead Time (LT)
 
-  * The elapsed time from when the input to a step is available, until the step is compeleted i.e. the work is sent along to the next step.
-
   * A.k.a. throughput time, turnaround time, elapsed time.
+
+  * The elapsed time from when the input to a step is available, until the step is compeleted i.e. the work is sent along to the next step.
 
   * Include Process Time, not just the waiting time.
 
