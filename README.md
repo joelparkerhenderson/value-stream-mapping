@@ -37,8 +37,8 @@ In order of importance.
 
 * Rolled first pass yield
 
-* # Handoffs
+* Number of Handoffs (#HO)
 
-* # IT Systems
+* Number of IT Systems (#IT)
 
 * Freed capacity
