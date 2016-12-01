@@ -35,6 +35,10 @@ In order of importance.
 
 * % Activity
 
+*  Input % Complete & Accurate (%C&amp;A)
+
+  * The percentage of inputs that are fully usable, i.e. that are complete and that are accurate.
+
 * Rolled first pass yield
 
 * Number of Handoffs (#HO)
