@@ -1,30 +1,30 @@
 # Value Stream Mapping
 
-* [What is value stream mapping?](#introduction)
-* [VSM wordbook](#how)
-* [VSM metrics](#how)
-* [Types of waste](#waste)
+Value stream mapping is a lean-management method for analyzing the current state and designing a future state for the series of events that take a product or service from its beginning through to the customer. 
+
+TOC:
+* [VSM links](#vsm-links)
+* [VSM wordbook](#vsm-wordbook)
+* [VSM metrics](#vsm-metrics)
+* [VSM types of waste](#vsm-types-of-waste)
 
 
-<h2><a name="introduction">What is value stream mapping?</a></h2>
+## VSM links
 
-Value stream mapping is a lean-management method for analyzing the current state and designing a future state for the series of events that take a product or service from its beginning through to the customer. At Toyota, it is known as "material and information flow mapping".[1] It can be applied to nearly any value chain.
-
-See:
 * [Wikipedia](https://en.wikipedia.org/wiki/Value_stream_mapping)
 * [Value stream mapping for non-manufacturing by Martin](http://www.slideshare.net/AMEConnect/value-stream-mapping-for-non-manufacturingmartinreplacement)
 
 
-<h2><a name="wordbook">VSM wordbook</a></h2>
+## VSM wordbook
 
 * Value Adding (VA): any activity that your external customers value, and would be willing to pay for.
 
 * Necessary Non-Value Adding (N NVA): any activity that is necessary but does not add value, for example any necessary support processes, legal regulatory requirements, etc.
 
-* Unnessary Non-Value Adding (U NVA): any activity that is unnessary, a.k.a. waste.
+* Unnessary Non-Value Adding (U NVA): any activity that is unnecesssary, a.k.a. waste.
 
 
-<h2><a name="metrics">VSM metrics</a></h2>
+## VSM metrics
 
 In order of importance.
 
@@ -73,7 +73,7 @@ In order of importance.
 * Freed capacity
 
 
-<h2><a name="waste">Types of waste</a></h2>
+## VSM types of waste
 
 * Overproduction
 
