@@ -1,8 +1,18 @@
-# Value Stream Mapping
+<!--
+  * browser: value-stream-mapping
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 1.3.0
+  * updated: 2018-02-24T03:07:25Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
+# Value stream mapping (VSM)
 
 Value stream mapping is a lean-management method for analyzing the current state and designing a future state for the series of events that take a product or service from its beginning through to the customer. 
 
-TOC:
+Contents:
+
 * [VSM links](#vsm-links)
 * [VSM wordbook](#vsm-wordbook)
 * [VSM metrics](#vsm-metrics)
